@@ -1,0 +1,15 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "command": {
+    "bootstrap": {
+      "concurrency": 2,
+      "npmClientArgs": [
+        "--no-package-lock"
+      ],
+      "hoist": true
+    }
+  },
+  "version": "1.0.0"
+}

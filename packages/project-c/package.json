@@ -1,0 +1,16 @@
+{
+  "name": "@kansai-node/project-c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"build project-c\"",
+    "lint": "echo \"lint project-c\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kansai-node/module-a": "^1.0.0"
+  }
+}

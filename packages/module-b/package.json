@@ -1,0 +1,17 @@
+{
+  "name": "@kansai-node/module-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test module-b\"",
+    "build": "echo \"build module-b\"",
+    "lint": "echo \"lint module-b\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kansai-node/module-a": "^1.0.0"
+  }
+}
